@@ -1,4 +1,9 @@
-package com.example.testing;
+package com.project.activity;
+
+import com.example.testing.R;
+import com.example.testing.R.id;
+import com.example.testing.R.layout;
+import com.example.testing.R.menu;
 
 import android.app.Activity;
 import android.os.Bundle;
