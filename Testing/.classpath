@@ -7,5 +7,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="lib" path="libs/ormlite-android-4.48.jar"/>
 	<classpathentry kind="lib" path="libs/ormlite-core-4.48.jar"/>
+	<classpathentry kind="lib" path="libs/ormlite-android-4.48-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/ormlite-core-4.48-javadoc.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
