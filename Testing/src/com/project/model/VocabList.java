@@ -56,6 +56,10 @@ public class VocabList {
 		return this.vocab;
 	}
 	
+	public boolean getBmk() {
+		return this.bmk;
+	}
+	
 	public ForeignCollection<Meaning> getMeaning() {
 		return this.meaning;
 	}
